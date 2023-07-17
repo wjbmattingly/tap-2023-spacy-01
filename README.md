@@ -1,5 +1,13 @@
 # TAP Institute 2023 - SpaCy Lessons - Week 1
 
+<p float="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" width="400" />
+  <img src="https://s3.amazonaws.com/org.jstor.labs/2021/01/banner2-1.jpg" width="400" /> 
+</p>
+
+
+
+
 Welcome to the first week of the TAP Institute's 2023 spaCy course. This course aims to introduce complete beginners to spaCy, a powerful open-source library for Natural Language Processing in Python. By the end of this week, you will have a solid foundation of the basics of spaCy, preparing you for more advanced topics in Week 2 (rules-based spaCy) and Week 3 (machine learning with spaCy).
 
 This repository contains the notebooks for each day of the course, stored in the 'notebooks' directory. Each notebook provides step-by-step guidance for that day's topic. There are three notebooks for this week:
